@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Telefone_Cliente]
+(
+	[Cpf_Cliente] VARCHAR(14) NOT NULL
+	CONSTRAINT [FK TELEFONE_CLIENTE / CLIENTE] REFERENCES CLIENTE(Cpf),
+    [Telefone] VARCHAR(16) NOT NULL, 
+    CONSTRAINT [PK TELEFONE_CLIENTE] PRIMARY KEY ([Cpf_Cliente], [Telefone])
+)

@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[Editora]
+(
+	[Codigo] INT NOT NULL CONSTRAINT [PK EDITORA] PRIMARY KEY IDENTITY, 
+    [Nome] VARCHAR(50) NOT NULL, 
+    [Email] VARCHAR(50) NOT NULL CONSTRAINT UN_EDITORA_EMAIL UNIQUE,
+    [Uf] VARCHAR(2) NOT NULL, 
+    [Cep] VARCHAR(9) NOT NULL, 
+    [Cidade] VARCHAR(50) NOT NULL, 
+    [Bairro] VARCHAR(50) NOT NULL, 
+    [Logradouro] VARCHAR(50) NOT NULL, 
+    [Numero] VARCHAR(5) NOT NULL, 
+    [Complemento] VARCHAR(50) NULL
+)

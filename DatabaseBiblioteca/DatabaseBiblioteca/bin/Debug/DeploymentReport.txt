@@ -1,0 +1,33 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Autor] (Table)
+       [dbo].[Cliente] (Table)
+       [dbo].[Editora] (Table)
+       [dbo].[Funcionario] (Table)
+       [dbo].[Livro] (Table)
+       [dbo].[Rel_Livro_Editora] (Table)
+       [dbo].[Rel_Livro_Venda] (Table)
+       [dbo].[Telefone_Cliente] (Table)
+       [dbo].[Telefone_Funcionario] (Table)
+       [dbo].[Venda] (Table)
+       [dbo].[FK LIVRO_AUTOR] (Foreign Key)
+       [dbo].[FK REL_LIVRO_EDITORA / LIVRO] (Foreign Key)
+       [dbo].[FK REL_LIVRO_EDITORA / EDITORA] (Foreign Key)
+       [dbo].[FK REL_LIVRO_VENDA / VENDA] (Foreign Key)
+       [dbo].[FK REL_LIVRO_VENDA / LIVRO] (Foreign Key)
+       [dbo].[FK TELEFONE_CLIENTE / CLIENTE] (Foreign Key)
+       [dbo].[FK TELEFONE_FUNCIONARIO / FUNCIONARIO] (Foreign Key)
+       [dbo].[FK VENDA / FUNCIONARIO] (Foreign Key)
+       [dbo].[FK VENDA / CLIENTE] (Foreign Key)
+
+** Supporting actions

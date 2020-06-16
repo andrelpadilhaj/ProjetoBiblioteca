@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Autor]
+(
+	[Codigo] INT NOT NULL CONSTRAINT [PK AUTOR] PRIMARY KEY IDENTITY, 
+    [Nome] VARCHAR(50) NOT NULL, 
+    [Dt_Nascimento] VARCHAR(8) NOT NULL
+)

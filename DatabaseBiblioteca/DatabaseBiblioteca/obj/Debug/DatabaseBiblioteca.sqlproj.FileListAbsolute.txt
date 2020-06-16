@@ -1,0 +1,6 @@
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\bin\Debug\DatabaseBiblioteca.dacpac
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\bin\Debug\DatabaseBiblioteca.dll
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\bin\Debug\DatabaseBiblioteca.pdb
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\obj\Debug\DatabaseBiblioteca.sqlprojAssemblyReference.cache
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\obj\Debug\DatabaseBiblioteca.dll
+D:\Dev\Faculdade\Conceitos Avancados em Sistema de Informacao\DatabaseBiblioteca\DatabaseBiblioteca\obj\Debug\DatabaseBiblioteca.pdb
